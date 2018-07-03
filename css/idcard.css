@@ -1,0 +1,10 @@
+.idcard-top{
+    background: #333;
+}
+.idcard-top a{
+    display: block;
+    padding: 15px 0;
+    font-size: 16px;
+    color: #fff;
+}
+

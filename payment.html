@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>payment</title>
+    <link rel="short icon" href="images/banner.png">
+    <link href="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="Font-Awesome-3.2.1/css/font-awesome.min.css" rel="stylesheet">
+    <link href="Font-Awesome-3.2.1/css/font-awesome.css" rel="stylesheet">
+    <script src="js/jquery.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <script src="slick/slick.js"></script>
+    <link rel="stylesheet" href="slick/slick-theme.css">
+    <link rel="stylesheet" href="slick/slick.css">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/payment.css" rel="stylesheet">
+</head>
+<body>
+<div class="container-fluid" id="yqb-payment">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 yqb-payment text-center selected"><a
+                    href="payment.html">付款</a></div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 yqb-payment text-center"><a href="receipt.html">收款</a></div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 yqb-payment text-center"><a href="transactionRecord.html">交易记录</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 payment-phone">
+                <form>
+                    <div class="form-group">
+                        <input class="form-control" type="text" placeholder="对方账户：手机号码">
+                        <input class="btn btn-primary btn-block" type="button" value="下一步">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 Pending-payment">
+                <span>待确认付款</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="container">
+        <div class="row yqb-table">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 text-center" style="padding:0;"><span>收款人</span></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 text-center" style="padding:0;"><span>币种</span></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 text-center" style="padding:0;"><span>数量</span></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 text-center" style="padding:0;"><span>金额</span></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 text-center" style="padding:0;"><span>日期</span></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 text-center" style="padding:0;"><span>操作</span></div>
+        </div>
+        <div class="row yqb-prompt">
+            <ul>
+                <li class="col-lg-12">重要提示：</li>
+                <li class="col-lg-12">请准确填写对方账户信息，并进行再次确认，否则付款错误将无法挽回。</li>
+                <li class="col-lg-12">付款后余额不能低于：2，支付数量不低于1个币</li>
+                <li class="col-lg-12">收付款需收取手续费为：1%</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid navbar-fixed-bottom" id="yqb-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center"><a href="javascript:"><b
+                    class=" icon-leaf"></b>交易</a></div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center"><a href="javascript:"><b
+                    class="icon-random"></b>矿机</a></div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center"><a href="javascript:"><b
+                    class=" icon-bell-alt"></b>资讯</a></div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center"><a href="index.html"><b class=" icon-book"></b>我的</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

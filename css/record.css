@@ -1,0 +1,28 @@
+.record-header{
+    display: block;
+    background: #00415b;
+}
+.record-header a{
+    font-size: 12px;
+    color: #fff;
+    display: block;
+    padding: 10px 0;
+
+}
+.record-nav h4{
+    font-size: 16px;
+    color: #fff;
+    display: block;
+    padding: 15px 10px;
+    border: 1px solid #eee;
+}
+.record-nav-main{
+    padding: 15px 0;
+}
+.record-nav-main span{
+    display: block;
+    font-size: 12px;
+    color: #fff;
+}
+
+

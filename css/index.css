@@ -1,0 +1,73 @@
+
+.yqb-header{
+    background:#222;
+}
+.yqb-top{
+    padding: 10px 5px;
+    font-size: 16px;
+    color: #ddd;
+}
+.yqb-pay{
+    padding: 20px 0;
+}
+.yqb-pay b{
+    padding: 10px;
+    color: #ddd;
+    display: block;
+    font-size: 48px;
+}
+
+.yqb-pay span{
+    font-size: 18px;
+    color: #ddd;
+}
+.yqb-main{
+    padding: 20px 0;
+    background: #222;
+}
+
+.yqb-main a{
+    font-size: 12px;
+    color: #ddd;
+    display: block;
+    padding: 10px 0;
+}
+.yqb-main a b{
+    display: block;
+    font-size: 30px;
+}
+.yqb-carousel{
+    padding-top: 25px;
+    background: #222;
+}
+.yqb-center{
+    padding: 20px 0;
+}
+
+.yqb-share a{
+    font-size: 12px;
+    color: #ddd;
+
+}
+.yqb-share a b{
+    display: block;
+    font-size: 30px;
+}
+.yqb-details{
+    padding: 20px 0;
+    background: #222;
+    margin-bottom: 60px;
+}
+.yqb-details-text{
+    padding: 10px 0;
+}
+.yqb-details-text a{
+    font-size: 12px;
+    color: #ddd;
+}
+.yqb-details-text a b{
+    display: block;
+    font-size: 30px;
+}
+
+

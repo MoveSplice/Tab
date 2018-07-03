@@ -1,0 +1,9 @@
+.cate-top{
+    background:#00415b;
+}
+.cate-top a{
+    display: block;
+    padding: 15px 0;
+    font-size: 16px;
+    color: #fff;
+}

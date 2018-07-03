@@ -1,0 +1,12 @@
+.byPass-top{
+    background: #00415b;
+
+}
+.byPass-top-child{
+    padding: 20px 0;
+}
+.byPass-top-child a{
+    display: block;
+    font-size: 20px;
+    color: #fff;
+}

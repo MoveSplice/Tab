@@ -1,0 +1,12 @@
+
+.mymining-header{
+    display: block;
+    background: #00415b;
+}
+.mymining-header a{
+    font-size: 12px;
+    color: #fff;
+    display: block;
+    padding: 10px 0;
+
+}

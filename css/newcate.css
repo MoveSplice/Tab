@@ -1,0 +1,9 @@
+.newcate-top{
+    background: #444;
+}
+.newcate-top a{
+    padding: 15px 0;
+    display: block;
+    font-size: 16px;
+    color: #fff;
+}

@@ -1,0 +1,70 @@
+.transaction{
+    background:#00415b;
+    padding: 20px 0;
+}
+.transaction b{
+    display: block;
+    font-size: 20px;
+    color: #fff;
+}
+.transaction a{
+    font-size: 16px;
+    color: #fff;
+}
+.transaction-price{
+    padding: 10px 0;
+}
+
+.transaction-price h2{
+    font-size: 20px;
+    color: #fff;
+}
+.transaction-price span{
+    color: rgb(0, 128, 0);
+}
+.transaction-price p{
+    font-size: 16px;
+    color: #555;
+}
+.search input{
+    background:#817a7a;
+    color: #fff;
+}
+.search b{
+    display: block;
+    font-size: 30px;
+    color: #777;
+}
+
+.Buy-and-sell{
+    padding: 20px 0;
+}
+.Buy-and-sell a{
+    color: #fff;
+    font-size: 20px;
+    display: block;
+    border: 1px solid #666;
+    padding: 10px 0;
+}
+.yqb-table span{
+    font-size: 12px;
+    color: #fff;
+    display: block;
+    padding: 0 0 5px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

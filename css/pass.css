@@ -1,0 +1,12 @@
+.pass-top{
+    background: #00415b;
+
+}
+.pass-top-child{
+    padding: 20px 0;
+}
+.pass-top-child a{
+    display: block;
+    font-size: 20px;
+    color: #fff;
+}

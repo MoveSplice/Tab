@@ -1,0 +1,13 @@
+
+.transactionRecord-top{
+    background: #00415b;
+}
+.transactionRecord a{
+    display: block;
+    font-size: 20px;
+    color: #fff;
+}
+
+.transactionRecord{
+    padding: 20px 0;
+}
